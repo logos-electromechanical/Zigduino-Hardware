@@ -1,0 +1,12 @@
+zigRunner 0.100 0.100
+zigEnd 0.100 0.600
+zigduinoV5b 0.600 0.600
+zigSpacer 0.600 2.700
+zigduinoV5b 0.600 2.900
+zigduinoV5b 3.500 0.600
+zigSpacer 3.500 2.700
+zigduinoV5b 3.500 2.900
+zigduinoV5b 6.400 0.600
+zigSpacer 6.400 2.700
+zigduinoV5b 6.400 2.900
+zigRunner 0.100 5.000

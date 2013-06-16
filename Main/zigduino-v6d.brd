@@ -2937,12 +2937,12 @@ Vision reference for SMD placement equipment</description>
 <element name="R10" library="resistor" package="R0603" value="1M2" x="25.4" y="24.765" smashed="yes">
 <attribute name="BOM" value="INCLUDE" x="25.4" y="24.765" size="1.016" layer="27" display="off"/>
 <attribute name="NAME" x="24.511" y="25.654" size="0.4064" layer="25"/>
-<attribute name="PARTNO" value="*" x="25.4" y="24.765" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNO" value="ERJ-3EKF1204V" x="25.4" y="24.765" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R11" library="resistor" package="R0603" value="1M" x="25.4" y="22.86" smashed="yes" rot="R180">
 <attribute name="BOM" value="INCLUDE" x="25.4" y="22.86" size="1.016" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="26.289" y="21.971" size="0.4064" layer="25" rot="R180"/>
-<attribute name="PARTNO" value="*" x="25.4" y="22.86" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PARTNO" value="ERJ-3EKF1004V" x="25.4" y="22.86" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="PWR-LED" library="SparkFun" package="SJ_2S-TRACE" value="SOLDERJUMPERTRACE" x="26.67" y="10.795" smashed="yes" rot="R180">
 <attribute name="BOM" value="EXCLUDE" x="26.67" y="10.795" size="1.778" layer="27" rot="R180" display="off"/>

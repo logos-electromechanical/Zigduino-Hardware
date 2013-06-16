@@ -17,3 +17,11 @@
 
 # Zip files
 *.zip
+
+# Eagle libraries
+*.lbr
+
+# Untitled Eagle files
+*.log
+*.scr
+untitled.*

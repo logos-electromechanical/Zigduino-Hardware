@@ -17422,11 +17422,11 @@ Source: 008-0260-0_E.pdf</description>
 </part>
 <part name="R10" library="resistor" deviceset="R-EU_" device="R0603" value="1M2">
 <attribute name="BOM" value="INCLUDE"/>
-<attribute name="PARTNO" value="*"/>
+<attribute name="PARTNO" value="ERJ-3EKF1204V"/>
 </part>
 <part name="R11" library="resistor" deviceset="R-EU_" device="R0603" value="1M">
 <attribute name="BOM" value="INCLUDE"/>
-<attribute name="PARTNO" value="*"/>
+<attribute name="PARTNO" value="ERJ-3EKF1004V"/>
 </part>
 <part name="GND18" library="supply1" deviceset="GND" device=""/>
 <part name="PWR-LED" library="SparkFun" deviceset="SOLDERJUMPER" device="TRACE">
